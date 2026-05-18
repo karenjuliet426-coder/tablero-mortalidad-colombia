@@ -1,7 +1,7 @@
 # Análisis de Mortalidad en Colombia (2019) - Aplicación Web Dinámica
 
 ## Introducción del Proyecto
-Esta aplicación web interactiva ha sido desarrollada utilizando el lenguaje de programación Python, haciendo uso de las librerías Dash y Plotly. Permite explorar de forma intuitiva los microdatos demográficos y regionales de mortalidad del DANE para el año 2019 en Colombia.
+Esta aplicación web interactiva ha sido desarrollada utilizando el lenguaje de programación Python, haciendo uso de las librerías Dash y Plotly. Permite explorar de forma intuitiva los microdatos demográficos y regionales de mortalidad del proporcionados para el año 2019 en Colombia.
 
 ## Objetivo
 Transformar datos complejos de estadísticas vitales en representaciones visuales dinámicas para identificar patrones espaciales, tendencias temporales, brechas de género y las principales causas de fallecimiento en el territorio nacional.
